@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+	body {
+		background-image:url('/home/pi/Cinemagraphs/images/get_lucky.gif');
+		background-repeat: no-repeat;
+		font-family: "Rockwell";
+		font-style: "bold";
+		font-size: 80%;
+	}
+</style>
+<body>
+
+<b>replace_me</b>
+
+</body>
+</html>
