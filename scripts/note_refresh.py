@@ -10,7 +10,7 @@ with urllib.request.urlopen('https://www.dropbox.com/s/nh8o4gou047td5m/Notes.txt
 
 with fileinput.FileInput("/home/pi/Cinemagraphs/Notes.txt", inplace=True, backup='.bak') as file:
 	for line in file:
-		print(line, end="<br>")
+		print(line, end='')
 fileinput.close()
 
 system("python3 update_html.py")
