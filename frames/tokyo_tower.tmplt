@@ -5,7 +5,7 @@
 		background-image:url('/home/pi/Cinemagraphs/images/tokyo_tower.gif');
 		background-repeat: no-repeat;
 		font-family: "Verdana";
-		font-color: "white";
+		color: "white";
 		font-style: "bold";
 		font-size: 80%;
 	}

@@ -18,4 +18,4 @@ with fileinput.FileInput(localNotePath, inplace=True, backup='.bak') as file:
 fileinput.close()
 
 # backs up and updates html files
-system("python3 update_html.py")
+system("python3 /home/pi/Cinemagraphs/scripts/update_html.py")
